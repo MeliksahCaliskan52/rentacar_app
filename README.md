@@ -1,10 +1,4 @@
-# RENT A CAR APP WITH FLUTTER
-
-Teammates
- - [@gokhanulaskin](https://github.com/gokhanulaskin)
- - [@batuhandavuts](https://github.com/batuhandavuts)
-
- <h2 align="left">Flutter Rent A Car App Final Project</h2>
+<h2 align="left">Flutter Rent A Car App Final Project</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeliksahCaliskan52&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -24,3 +18,7 @@ Teammates
 </div>
 
 ###
+Teammates
+ - [@gokhanulaskin](https://github.com/gokhanulaskin)
+ - [@batuhandavuts](https://github.com/batuhandavuts)
+
