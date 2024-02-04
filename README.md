@@ -30,7 +30,7 @@
 
 ###
 
-Ders:
+Ders
  - Mobil Programlamaya Giriş
 
 Teammates
